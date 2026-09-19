@@ -75,7 +75,7 @@ My philosophy is merging **aesthetic sensibility with technical precision** — 
 | Project | Domain | Description | Link |
 | :--- | :--- | :--- | :--- |
 | **🌐 Bhatti Network** | Web & Creative Studio | Official agency website showcasing digital services, portfolio, and interactive client workflows. | [Visit Us](https://jawadali.free.nf/) |
-| **⚖️ ZAR Calculator** | Web App / Financial Tool | Specially designed gold calculation engine for Pakistani Rupees (PKR), tailored for goldsmiths and jewellers. | [Visit Project](https://jawadali.free.nf/contact.html) |
+| **⚖️ ZAR Calculator** | Web App / Financial Tool | Specially designed gold calculation engine for Pakistani Rupees (PKR), tailored for goldsmiths and jewellers. | [Visit Project](https://zarcalculator.great-site.net/) |
 | **🏗️ EYAAD 2023 SL** | Corporate Web Platform | Modern, responsive company platform highlighting contracting, architecture, and construction projects. | [Visit Project](https://eyaad2023.com/) |
 | **🎨 GFX Brand Portfolio** | Brand Identity & Creative | Comprehensive collection of custom logos, promotional flyers, brand identities, and commercial graphics. | [Visit Project](https://drive.google.com/drive/folders/19M7vUtZh2mk-rhvjF1m2JDwyQuKZ5k8P?usp=drive_link) |
 
