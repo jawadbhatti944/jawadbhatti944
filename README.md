@@ -74,22 +74,26 @@ My philosophy is merging **aesthetic sensibility with technical precision** — 
 
 | Project | Domain | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **🌐 Bhatti Network** | Web & Creative Studio | Official agency website showcasing digital services, portfolio, and interactive client workflows. | [Live Site](https://jawadali.free.nf/) |
-| **⚖️ ZAR Calculator** | Web App / Financial Tool | Specially designed gold calculation engine for Pakistani Rupees (PKR), tailored for goldsmiths and jewellers. | [Visit Project](https://zarcalculator.great-site.net/) |
+| **🌐 Bhatti Network** | Web & Creative Studio | Official agency website showcasing digital services, portfolio, and interactive client workflows. | [Visit Us](https://jawadali.free.nf/) |
+| **⚖️ ZAR Calculator** | Web App / Financial Tool | Specially designed gold calculation engine for Pakistani Rupees (PKR), tailored for goldsmiths and jewellers. | [Visit Project](https://jawadali.free.nf/contact.html) |
 | **🏗️ EYAAD 2023 SL** | Corporate Web Platform | Modern, responsive company platform highlighting contracting, architecture, and construction projects. | [Visit Project](https://eyaad2023.com/) |
-| **🎨 GFX Brand Portfolio** | Brand Identity & Creative | Comprehensive collection of custom logos, promotional flyers, brand identities, and commercial graphics. | [View Showcase](https://drive.google.com/drive/folders/19M7vUtZh2mk-rhvjF1m2JDwyQuKZ5k8P?usp=drive_link) |
+| **🎨 GFX Brand Portfolio** | Brand Identity & Creative | Comprehensive collection of custom logos, promotional flyers, brand identities, and commercial graphics. | [Visit Project](https://drive.google.com/drive/folders/19M7vUtZh2mk-rhvjF1m2JDwyQuKZ5k8P?usp=drive_link) |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawadbhatti944&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadbhatti944&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jawadbhatti944&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jawadbhatti944&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadbhatti944&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=F59E0B" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=jawadbhatti944&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=F59E0B" alt="GitHub Streak" width="97%" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://ghchart.rshah.org/8A2BE2/jawadbhatti944" alt="Jawad's GitHub Contributions Chart" width="97%" />
 </div>
 
 ---
